@@ -1,0 +1,17 @@
+{
+  "name": "authenticator_appjs",
+  "version": "1.0.0",
+  "description": "two factor authentication test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Williams",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "messagebird": "^3.5.0"
+  }
+}
